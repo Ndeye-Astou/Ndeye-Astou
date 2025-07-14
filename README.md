@@ -18,14 +18,19 @@
 <p align="center">
   <a href="mailto:ndeyeastoukebe01@gmail.com"><img src="https://img.shields.io/badge/Email-ndeyeastoukebe01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ndeye-astou-kébé-75987b374"><img src="https://img.shields.io/badge/LinkedIn-Ndeye_Astou-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Ebek-Consulting"><img src="https://img.shields.io/badge/GitHub-Ebek_Consulting-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Ndeye-Astou" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.shields.io/badge/GitHub-Ebek_Consulting-black?style=for-the-badge&logo=github&logoColor=white" 
+    alt="GitHub Ebek Consulting"
+  />
+</a>
 </p>
 
 ---
 
 ## 👩🏽‍💻 À propos de moi
 
-🎓 Diplômée en **Génie Logiciel** à l'Institut Supérieur d'Informatique (ISI)  
+🎓 Diplômée en **DTS Génie Logiciel** à l'Institut Supérieur d'Informatique (ISI)  
 🚀 Développeuse freelance spécialisée en **applications web et mobiles**  
 💡 Passionnée par la création d'expériences utilisateur fluides et impactantes  
 🌍 Travaillant avec des startups, PME et entrepreneurs à travers le monde  
