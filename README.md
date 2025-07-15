@@ -1,39 +1,54 @@
 <p align="center">
   <img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" 
-       alt="Banner Ndeye Astou Kébé" 
-       width="20%" 
+       alt="Ndeye Astou Kébé" 
+       width="50%" 
        style="
-         border-radius: 10px;
+         border-radius: 15px;
          transition: transform 0.5s ease, box-shadow 0.3s ease;
          cursor: pointer;
+         border: 3px solid #6e5494;
        "
-       onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.3)';"
+       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 25px rgba(110,84,148,0.4)';"
        onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"
   />
 </p>
 
-<h1 align="center">Ndeye Astou Kébé <br/><sub><em>Développeuse Web & Mobile Freelance</em></sub></h1>
-<p align="center">Basée à Dakar 🇸🇳 | Spécialisée en Génie Logiciel | Passionnée par l'innovation digitale</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=6E5494&center=true&vCenter=true&width=500&lines=Ndeye+Astou+K%C3%A9b%C3%A9;D%C3%A9veloppeuse+Web+%26+Mobile" alt="Typing SVG" />
+  </a>
+</h1>
 
-<p align="center">
-  <a href="mailto:ndeyeastoukebe01@gmail.com"><img src="https://img.shields.io/badge/Email-ndeyeastoukebe01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ndeye-astou-kébé-75987b374"><img src="https://img.shields.io/badge/LinkedIn-Ndeye_Astou-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Ndeye-Astou" target="_blank" rel="noopener noreferrer">
-  <img 
-    src="https://img.shields.io/badge/GitHub-Ebek_Consulting-black?style=for-the-badge&logo=github&logoColor=white" 
-    alt="GitHub Ebek Consulting"
-  />
-</a>
-</p>
+<h3 align="center">💻 Freelance Fullstack | � Diplômée DTS Génie Logiciel | 🌍 Dakar, Sénégal</h3>
+
+<div align="center">
+  <a href="mailto:ndeyeastoukebe01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ndeye-astou-kébé-75987b374">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ndeye-Astou">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-6e5494?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-## 👩🏽‍💻 À propos de moi
+### 👩🏽‍💻 Profil Professionnel
 
-🎓 Diplômée en **DTS Génie Logiciel** à l'Institut Supérieur d'Informatique (ISI)  
-🚀 Développeuse freelance spécialisée en **applications web et mobiles**  
-💡 Passionnée par la création d'expériences utilisateur fluides et impactantes  
-🌍 Travaillant avec des startups, PME et entrepreneurs à travers le monde  
+🎓Formation: "DTS Génie Logiciel à l'Institut Supérieur d'Informatique (ISI)"
+
+🚀Expertise: ["Développement Web Fullstack", "Applications Mobile", "Solutions E-commerce"]
+
+💡Philosophie: "Créer des expériences digitales fluides et impactantes"
+
+🌍Disponibilité: "✅ Accepte de nouveaux projets freelance"
+
+
 
 ---
 
@@ -73,7 +88,6 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ndeye-Astou&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndeye-Astou&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
