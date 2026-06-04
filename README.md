@@ -19,7 +19,7 @@
   </a>
 </h1>
 
-<h3 align="center"> Web Developer & Data Analysis Etudiante - IISAN (Year 3) | Website creation and data projects | Dakar, Sénégal</h3>
+<h3 align="center"> Web Developer & Data Analysis Etudiante - IISAN (L3) | Website creation and data projects | Dakar, Sénégal</h3>
 
 <div align="center">
   <a href="mailto:ndeyeastoukebe21@gmail.com">
