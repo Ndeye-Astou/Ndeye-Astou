@@ -19,10 +19,10 @@
   </a>
 </h1>
 
-<h3 align="center">💻 Freelance Fullstack | � Diplômée DTS Génie Logiciel | 🌍 Dakar, Sénégal</h3>
+<h3 align="center"> Web Developer & Data Analysis Student - IISAN (Year 3) | Website creation and data projects | Dakar, Sénégal</h3>
 
 <div align="center">
-  <a href="mailto:ndeyeastoukebe01@gmail.com">
+  <a href="mailto:ndeyeastoukebe21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ndeye-astou-kébé-75987b374">
@@ -40,19 +40,19 @@
 
 ### 👩🏽‍💻 Profil Professionnel
 
-🎓Formation: "DTS Génie Logiciel à l'Institut Supérieur d'Informatique (ISI)"
+🎓Formation: "DTS Génie Logiciel à l'Institut Supérieur d'Informatique (ISI) & Etudiante L3 en Analyse de donnees
 
-🚀Expertise: ["Développement Web Fullstack", "Applications Mobile", "Solutions E-commerce"]
+🚀Expertise: ["Développement Web Fullstack", "Applications Mobile", "Data Analysis Student - IISAN (Year 3)"]
 
 💡Philosophie: "Créer des expériences digitales fluides et impactantes"
 
-🌍Disponibilité: "✅ Accepte de nouveaux projets freelance"
+🌍Disponibilité: "Accepte de nouveaux projets freelance"
 
 
 
 ---
 
-## 🛠️ Compétences
+## Compétences
 
 **Frontend**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
