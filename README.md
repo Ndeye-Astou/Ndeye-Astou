@@ -21,7 +21,7 @@
 </h1>
 
 <h3 align="center">
-Développeuse Web Full-Stack | Étudiante en Analyse de Données (L3 IISAN) | Création de sites web, applications et projets data | Dakar, Sénégal
+Développeuse Web Full-Stack | Étudiante en Analyse de Données (L3 IISAN) | Création de solutions web & data | Dakar, Sénégal
 </h3>
 
 <div align="center">
@@ -51,11 +51,11 @@ Développeuse Web Full-Stack | Étudiante en Analyse de Données (L3 IISAN) | Cr
 - Développement Web Full-Stack
 - Développement d’applications web et mobiles
 - Analyse et visualisation de données
-- Conception de sites web professionnels
+- Conception de solutions digitales
 - Gestion de bases de données
 
 💡 **Vision**
-Créer des solutions digitales modernes, simples et efficaces qui répondent à des besoins réels.
+Concevoir des solutions digitales simples, efficaces et utiles, capables de transformer des besoins métiers et des données en résultats concrets.
 
 🌍 **Disponibilité**
 Ouverte aux stages, opportunités professionnelles et missions freelance.
@@ -65,27 +65,16 @@ Ouverte aux stages, opportunités professionnelles et missions freelance.
 ## 💻 Compétences
 
 **Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap)
+HTML5 · CSS3 · JavaScript · Bootstrap  
 
 **Backend**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+PHP · Python · Flask  
 
 **Data Analytics**  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+Power BI · Excel · Pandas · NumPy · SQL · Data Visualization  
 
 **Bases de données & Outils**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+MySQL · WordPress · Canva · Git / GitHub  
 
 ---
 
@@ -93,13 +82,13 @@ Ouverte aux stages, opportunités professionnelles et missions freelance.
 
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
-| **Portfolio Professionnel** | Site personnel présentant mes compétences et réalisations. | HTML, CSS, JavaScript |
-| **Plateforme d’Apprentissage Web** | Plateforme éducative interactive pour apprendre le développement web. | JavaScript, Bootstrap |
-| **E-commerce Électro** | Boutique en ligne avec gestion des produits et espace admin. | PHP, MySQL, JavaScript |
-| **Système de Gestion Hôtelière** | Application de réservation et gestion clients/admin. | Python, Flask |
-| **Site WordPress E-commerce** | Boutique en ligne professionnelle avec WooCommerce. | WordPress, WooCommerce |
-| **Site Cabinet Juridique** | Site vitrine professionnel avec formulaire de contact. | WordPress, Elementor |
-| **Projet Data Analytics** | Tableaux de bord et analyses avec Power BI. | Power BI, Excel, SQL |
+| Portfolio Professionnel | Site personnel présentant mon profil, mes compétences et réalisations. | HTML, CSS, JavaScript |
+| Plateforme d’Apprentissage Web | Plateforme éducative interactive pour apprendre le développement web. | JavaScript, Bootstrap |
+| E-commerce Électro | Application e-commerce avec gestion des produits et espace administrateur. | PHP, MySQL, JavaScript |
+| Système de Gestion Hôtelière | Application de réservation et gestion clients/admin. | Python, Flask |
+| Site WordPress E-commerce | Boutique en ligne professionnelle avec WooCommerce. | WordPress, WooCommerce |
+| Site Cabinet Juridique | Site vitrine professionnel avec formulaire de contact. | WordPress, Elementor |
+| Projet Data Analytics | Tableaux de bord interactifs pour analyse et prise de décision. | Power BI, Excel, SQL |
 
 ---
 
