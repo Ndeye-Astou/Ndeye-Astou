@@ -1,98 +1,82 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" 
-       alt="Ndeye Astou Kébé" 
-       width="50%" 
-       style="
-         border-radius: 15px;
-         transition: transform 0.5s ease, box-shadow 0.3s ease;
-         cursor: pointer;
-         border: 3px solid #6e5494;
-       "
-       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 25px rgba(110,84,148,0.4)';"
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"
-  />
-</p>
+# 👋 Ndeye Astou Kébé
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=6E5494&center=true&vCenter=true&width=500&lines=Ndeye+Astou+K%C3%A9b%C3%A9;D%C3%A9veloppeuse+Web+Full-Stack+%26+Data+Analyst" 
-         alt="Typing SVG" />
-  </a>
-</h1>
+## Développeuse Web Full-Stack & Data Analyst (Étudiante L3 IISAN)
 
-<h3 align="center">
-Développeuse Web Full-Stack | Étudiante en Analyse de Données (L3 IISAN) | Création de solutions web & data | Dakar, Sénégal
-</h3>
-
-<div align="center">
-  <a href="mailto:ndeyeastoukebe21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ndeye-astou-kébé-75987b374">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ndeye-Astou">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://portfolio-ndeye-astou.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-6e5494?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</div>
+💻 Créatrice de solutions web & data | Python · PHP · JavaScript · Power BI · SQL  
+📍 Dakar, Sénégal
 
 ---
 
-### 👩🏽‍💻 Profil Professionnel
+## 🚀 À PROPOS
 
-🎓 **Formation**
-- DTS Génie Logiciel – Institut Supérieur d'Informatique (ISI)
-- Licence 3 Analyse de Données – IISAN
+Développeuse Web Full-Stack et Analyste de Données, je conçois des solutions digitales orientées performance, automatisation et aide à la prise de décision.
 
-🚀 **Expertise**
-- Développement Web Full-Stack
-- Développement d’applications web et mobiles
+Je combine le développement web et la data pour créer des applications utiles, des plateformes interactives et des dashboards exploitables pour les utilisateurs et les organisations.
+
+🎯 Ce que je fais :
+- Développement d’applications web (Frontend & Backend)
+- Création de sites web professionnels et e-commerce
 - Analyse et visualisation de données
-- Conception de solutions digitales orientées utilisateur
-- Gestion de bases de données
+- Création de dashboards avec Power BI et Excel
+- Gestion et structuration de bases de données
 
-💡 **Vision**
-Concevoir des solutions digitales simples, efficaces et orientées valeur, capables de transformer des besoins métiers et des données en résultats exploitables.
+💡 Mon objectif est de transformer des besoins métiers et des données en solutions digitales simples, efficaces et exploitables.
 
-🌍 **Disponibilité**
-Ouverte aux stages, opportunités professionnelles et missions freelance.
+🚀 Ouverte aux stages, opportunités professionnelles et missions freelance.
 
 ---
 
-## 💻 Compétences
+## 🧠 COMPÉTENCES
 
-**Frontend**  
-HTML5 · CSS3 · JavaScript · Bootstrap  
+### 💻 Développement Web
+HTML5 · CSS3 · JavaScript · Bootstrap · PHP · Python · Flask
 
-**Backend**  
-PHP · Python · Flask  
+### 📊 Data Analytics
+Power BI · Excel · Pandas · NumPy · SQL · Data Visualization
 
-**Data Analytics**  
-Power BI · Excel · Pandas · NumPy · SQL · Data Visualization  
-
-**Bases de données & Outils**  
-MySQL · WordPress · Canva · Git / GitHub  
+### 🛠 Outils
+MySQL · Git · GitHub · WordPress · Canva
 
 ---
 
-## 🔥 Projets Phares
+## 💼 EXPÉRIENCE & PROJETS
 
-| Projet | Description | Technologies |
-|--------|-------------|--------------|
-| Portfolio Professionnel | Plateforme personnelle présentant mon profil et mes réalisations. | HTML, CSS, JavaScript |
-| Plateforme d’Apprentissage Web | Système interactif pour apprendre le développement web. | JavaScript, Bootstrap |
-| E-commerce Électro | Application e-commerce avec gestion produits et administration. | PHP, MySQL, JavaScript |
-| Système de Gestion Hôtelière | Application de réservation et gestion hôtelière digitalisée. | Python, Flask |
-| Site WordPress E-commerce | Boutique en ligne professionnelle avec WooCommerce. | WordPress, WooCommerce |
-| Site Cabinet Juridique | Site vitrine professionnel avec formulaire de contact. | WordPress, Elementor |
-| Projet Data Analytics | Tableaux de bord interactifs pour analyse et décision. | Power BI, Excel, SQL |
+### 🔹 Développeuse Web Full-Stack
+Projets académiques & personnels
+
+✔ Applications web dynamiques et responsives  
+✔ Interfaces utilisateur modernes  
+✔ Gestion de bases de données MySQL  
+✔ Développement backend (PHP / Python)  
+
+📌 Projets :
+- Portfolio personnel (HTML, CSS, JS)
+- Plateforme d’apprentissage web
+- E-commerce complet (PHP / MySQL)
+- Système de gestion hôtelière (Python / Flask)
 
 ---
 
-## 📫 Contact
+### 🔹 Analyste de Données
+Projets académiques
+
+✔ Analyse de données avec Python (Pandas, NumPy)  
+✔ Nettoyage et traitement de données  
+✔ Création de dashboards interactifs  
+✔ Visualisation avec Power BI et Excel  
+
+📌 Projet :
+- Dashboard Data Analytics (Power BI / Excel / SQL)
+
+---
+
+## 🎯 OBJECTIF PROFESSIONNEL
+
+Je recherche des opportunités dans le développement web ou l’analyse de données afin de participer à des projets concrets, renforcer mes compétences techniques et contribuer à des solutions digitales à impact réel.
+
+---
+
+## 📫 CONTACT
 
 📧 Email : ndeyeastoukebe01@gmail.com  
 💼 LinkedIn : linkedin.com/in/ndeye-astou-kébé-75987b374  
@@ -100,3 +84,5 @@ MySQL · WordPress · Canva · Git / GitHub
 🌐 Portfolio : portfolio-ndeye-astou.netlify.app  
 
 ---
+
+✨ “Créer des solutions simples, utiles et orientées impact réel.”
