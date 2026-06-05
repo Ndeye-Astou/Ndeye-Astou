@@ -58,7 +58,7 @@ Développeuse Web Full-Stack | Étudiante en Analyse de Données (L3 IISAN) | Cr
 Concevoir des solutions digitales simples, efficaces et utiles, capables de transformer des besoins métiers et des données en résultats concrets.
 
 🌍 **Disponibilité**
-Ouverte aux stages, opportunités professionnelles et missions freelance.
+Ouverte opportunités professionnelles et missions freelance.
 
 ---
 
@@ -94,7 +94,7 @@ MySQL · WordPress · Canva · Git / GitHub
 
 ## 📫 Contact
 
-📧 Email : ndeyeastoukebe01@gmail.com  
+📧 Email : ndeyeastoukebe21@gmail.com  
 💼 LinkedIn : linkedin.com/in/ndeye-astou-kébé-75987b374  
 💻 GitHub : github.com/Ndeye-Astou  
 🌐 Portfolio : portfolio-ndeye-astou.netlify.app  
