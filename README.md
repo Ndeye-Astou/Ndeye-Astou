@@ -12,7 +12,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=6E5494&center=true&vCenter=true&width=500&lines=Ndeye+Astou+K%C3%A9b%C3%A9;Web+Full-Stack+%26+Data+Analyst" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=6E5494&center=true&vCenter=true&width=500&lines=Ndeye+Astou+K%C3%A9b%C3%A9;Web+Full-Stack+%26+Data+Analyst" />
 </h1>
 
 <h3 align="center">
