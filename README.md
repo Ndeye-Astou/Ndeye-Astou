@@ -1,102 +1,104 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" 
-       alt="Ndeye Astou Kébé" 
-       width="50%" 
-       style="
-         border-radius: 15px;
-         transition: transform 0.5s ease, box-shadow 0.3s ease;
-         cursor: pointer;
-         border: 3px solid #6e5494;
-       "
-       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 25px rgba(110,84,148,0.4)';"
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"
-  />
-</p>
+# 🎨 PORTFOLIO + LINKEDIN + GITHUB — NDEYE ASTOU KÉBÉ
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=6E5494&center=true&vCenter=true&width=500&lines=Ndeye+Astou+K%C3%A9b%C3%A9;D%C3%A9veloppeuse+Web+Full-Stack+%26+Data+Analyst" 
-         alt="Typing SVG" />
-  </a>
-</h1>
+# 👋 Ndeye Astou Kébé
+Développeuse Web Full-Stack & Data Analyst
 
-<h3 align="center">
-Développeuse Web Full-Stack | Étudiante en Analyse de Données (L3 IISAN) | Création de solutions web & data | Dakar, Sénégal
-</h3>
-
-<div align="center">
-  <a href="mailto:ndeyeastoukebe21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ndeye-astou-kébé-75987b374">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ndeye-Astou">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://portfolio-ndeye-astou.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-6e5494?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</div>
+Je conçois des solutions web et data modernes, performantes et utiles, en transformant des besoins en applications concrètes et exploitables.
 
 ---
 
-### 👩🏽‍💻 Profil Professionnel
+# 🚀 PORTFOLIO WEB (STRUCTURE + CODE)
 
-🎓 **Formation**
-- DTS Génie Logiciel – Institut Supérieur d'Informatique (ISI)
-- Licence 3 Analyse de Données – IISAN
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Portfolio - Ndeye Astou Kébé</title>
+</head>
 
-🚀 **Expertise**
-- Développement Web Full-Stack
-- Développement d’applications web et mobiles
-- Analyse et visualisation de données
-- Conception de solutions digitales
-- Gestion de bases de données
+<body style="background:#0f172a;color:white;font-family:Arial">
 
-💡 **Vision**
-Concevoir des solutions digitales simples, efficaces et utiles, capables de transformer des besoins métiers et des données en résultats concrets.
+<section style="text-align:center;padding:100px 20px;">
+  <h1 style="font-size:40px;">Ndeye Astou Kébé</h1>
+  <h2 style="color:#6e5494;">Développeuse Web Full-Stack & Data Analyst</h2>
+  <p>Création de solutions web et data modernes et efficaces</p>
+  <a href="#projects" style="padding:10px 20px;background:#6e5494;color:white;text-decoration:none;border-radius:8px;">
+    Voir mes projets
+  </a>
+</section>
 
-🌍 **Disponibilité**
-Ouverte opportunités professionnelles et missions freelance.
+<section id="projects" style="padding:50px;text-align:center;">
+  <h2>Projets</h2>
 
----
+  <div style="margin:10px;padding:15px;background:#1e293b;border-radius:10px;">Portfolio Web</div>
+  <div style="margin:10px;padding:15px;background:#1e293b;border-radius:10px;">E-commerce PHP/MySQL</div>
+  <div style="margin:10px;padding:15px;background:#1e293b;border-radius:10px;">Dashboard Power BI</div>
+  <div style="margin:10px;padding:15px;background:#1e293b;border-radius:10px;">Système de gestion hôtelière</div>
 
-## 💻 Compétences
+</section>
 
-**Frontend**  
-HTML5 · CSS3 · JavaScript · Bootstrap  
+<script>
+document.querySelector("a").addEventListener("click", function(e){
+  e.preventDefault();
+  document.getElementById("projects").scrollIntoView({behavior:"smooth"});
+});
+</script>
 
-**Backend**  
-PHP · Python · Flask  
-
-**Data Analytics**  
-Power BI · Excel · Pandas · NumPy · SQL · Data Visualization  
-
-**Bases de données & Outils**  
-MySQL · WordPress · Canva · Git / GitHub  
-
----
-
-## 🔥 Projets Phares
-
-| Projet | Description | Technologies |
-|--------|-------------|--------------|
-| Portfolio Professionnel | Site personnel présentant mon profil, mes compétences et réalisations. | HTML, CSS, JavaScript |
-| Plateforme d’Apprentissage Web | Plateforme éducative interactive pour apprendre le développement web. | JavaScript, Bootstrap |
-| E-commerce Électro | Application e-commerce avec gestion des produits et espace administrateur. | PHP, MySQL, JavaScript |
-| Système de Gestion Hôtelière | Application de réservation et gestion clients/admin. | Python, Flask |
-| Site WordPress E-commerce | Boutique en ligne professionnelle avec WooCommerce. | WordPress, WooCommerce |
-| Site Cabinet Juridique | Site vitrine professionnel avec formulaire de contact. | WordPress, Elementor |
-| Projet Data Analytics | Tableaux de bord interactifs pour analyse et prise de décision. | Power BI, Excel, SQL |
+</body>
+</html>
 
 ---
 
-## 📫 Contact
+# 🔥 LINKEDIN (OPTIMISÉ RECRUTEURS)
 
-📧 Email : ndeyeastoukebe21@gmail.com  
-💼 LinkedIn : linkedin.com/in/ndeye-astou-kébé-75987b374  
-💻 GitHub : github.com/Ndeye-Astou  
-🌐 Portfolio : portfolio-ndeye-astou.netlify.app  
+HEADLINE :
+Développeuse Web Full-Stack & Data Analyst | Python · PHP · JavaScript · Power BI · SQL | Création de solutions web & data
+
+ABOUT :
+Développeuse Web Full-Stack et Data Analyst, je conçois des solutions digitales orientées performance et prise de décision.
+
+Je développe des applications web, des sites professionnels et des dashboards de données pour transformer des besoins en solutions concrètes.
+
+Compétences :
+- Développement Web (HTML, CSS, JavaScript, PHP, Python)
+- Data Analysis (Power BI, Excel, Pandas, SQL)
+- Création de sites web et e-commerce
+- Visualisation de données
+
+Je suis ouverte aux opportunités professionnelles et collaborations.
+
+POST :
+Bonjour 👋
+
+Je suis Développeuse Web Full-Stack et Data Analyst.
+
+Je crée des applications web, sites e-commerce et dashboards de données pour transformer des besoins en solutions concrètes.
+
+Technologies :
+Python · PHP · JavaScript · Power BI · SQL
+
+Ouverte aux opportunités et collaborations.
 
 ---
+
+# 🧠 GITHUB README
+
+# 👋 Ndeye Astou Kébé
+## Développeuse Web Full-Stack & Data Analyst
+
+Développeuse Web Full-Stack et Data Analyst, je conçois des solutions web et data orientées performance et impact.
+
+Je transforme des besoins métiers en applications fonctionnelles et dashboards exploitables.
+
+SKILLS :
+Frontend : HTML · CSS · JavaScript  
+Backend : PHP · Python · Flask  
+Data : Power BI · Excel · Pandas · NumPy · SQL  
+Tools : Git · GitHub · MySQL · WordPress  
+
+PROJECTS :
+- Portfolio Web (HTML/CSS/JS)
+- Plateforme d’apprentissage web
+- E-commerce PHP/MySQL
+- Système de gestion hôtelière Python/Flask
+- Dashboard Data Analytics Power BI
