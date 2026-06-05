@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=900&color=6E5494&center=true&vCenter=true&width=700&lines=Ndeye+Astou+K%C3%A9b%C3%A9;D%C3%A9veloppeuse+Web+Full-Stack+%26+Data+Analyst;Je+cr%C3%A9e+des+solutions+web+et+data+impactantes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=900&color=6E5494&center=true&vCenter=true&width=950&lines=Ndeye+Astou+K%C3%A9b%C3%A9;D%C3%A9veloppeuse+Web+Full-Stack+%26+Data+Analyst;Je+cr%C3%A9e+des+solutions+web+et+data+impactantes" />
 </h1>
 
 <h3 align="center">
@@ -37,7 +37,7 @@
 
 ---
 
-# 🧠 À PROPOS DE MOI
+# À PROPOS DE MOI
 
 Je suis une développeuse web Full-Stack et analyste de données passionnée par la création de solutions numériques utiles, modernes et orientées impact.
 
@@ -104,19 +104,8 @@ Git · GitHub · MySQL · WordPress · Canva
 | E-commerce Électro | Vente en ligne complète | PHP, MySQL |
 | Système de gestion hôtelière | Digitalisation des réservations | Python, Flask |
 | Site WordPress E-commerce | Boutique professionnelle | WooCommerce |
-| Dashboard Data Analytics | Analyse et décision business | Power BI, Excel, SQL |
+| Dashboard Data Analytics | Analyse et décision business | Power BI, Excel, SQL | Big Data
 
----
-
-# 📊 STATISTIQUES GITHUB
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ndeye-Astou&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndeye-Astou&layout=compact&theme=tokyonight&hide_border=true" width="48%">
-
-</p>
 
 ---
 
@@ -126,13 +115,6 @@ Git · GitHub · MySQL · WordPress · Canva
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ndeye-Astou&theme=tokyo-night" />
 </p>
 
----
-
-# 🏆 RÉALISATIONS & TROPHÉES
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ndeye-Astou&theme=tokyonight&no-frame=true&row=1&column=6">
-</p>
 
 ---
 
@@ -156,7 +138,7 @@ Intégrer des projets où je peux :
 
 ---
 
-# 📫 CONTACT
+# CONTACT
 
 📧 Email : ndeyeastoukebe21@gmail.com  
 💼 LinkedIn : linkedin.com/in/ndeye-astou-kébé-75987b374  
