@@ -12,7 +12,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=6E5494&center=true&vCenter=true&width=500&lines=Ndeye+Astou+K%C3%A9b%C3%A9;Web+Full-Stack+%26+Data+Analyst" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=6E5494&center=true&vCenter=true&width=500&lines=Ndeye+Astou+K%C3%A9b%C3%A9;Web+Full-Stack+%26+Data+Analyst" />
 </h1>
 
 <h3 align="center">
@@ -36,7 +36,7 @@ Développeuse Web Full-Stack | Data Analyst | Création de solutions web & data 
 
 ---
 
-## 👩🏽‍💻 À propos
+## À propos
 
 Développeuse Web Full-Stack et Data Analyst, je conçois et développe des solutions digitales complètes allant du site web à l’analyse de données.
 
@@ -48,7 +48,7 @@ Je transforme des besoins réels en produits fonctionnels :
 
 ---
 
-## 🎯 Ce que je construis
+## Ce que je construis
 
 ✔ Sites web professionnels  
 ✔ Applications web dynamiques  
@@ -58,7 +58,7 @@ Je transforme des besoins réels en produits fonctionnels :
 
 ---
 
-## 💻 Compétences
+## Compétences
 
 **Frontend**  
 HTML5 · CSS3 · JavaScript · Bootstrap  
@@ -74,7 +74,7 @@ MySQL · WordPress · Canva · Git / GitHub
 
 ---
 
-## 🔥 Projets Phares
+## Projets Phares
 
 | Projet | Impact | Technologies |
 |--------|--------|--------------|
@@ -87,17 +87,15 @@ MySQL · WordPress · Canva · Git / GitHub
 
 ---
 
-## 📌 Vision
+## Vision
 
 Créer des solutions digitales simples, efficaces et utiles qui résolvent des problèmes concrets et améliorent la prise de décision.
 
 ---
 
-## 📫 Contact
+## Contact
 
-📧 Email : ndeyeastoukebe21@gmail.com  
-💼 LinkedIn : linkedin.com/in/ndeye-astou-kébé-75987b374  
-💻 GitHub : github.com/Ndeye-Astou  
-🌐 Portfolio : portfolio-ndeye-astou.netlify.app  
-
----
+Email : ndeyeastoukebe21@gmail.com  
+LinkedIn : linkedin.com/in/ndeye-astou-kébé-75987b374  
+GitHub : github.com/Ndeye-Astou  
+Portfolio : portfolio-ndeye-astou.netlify.app
