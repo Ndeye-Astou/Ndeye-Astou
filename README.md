@@ -1,25 +1,4 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" 
-       alt="Ndeye Astou Kébé" 
-       width="50%" 
-       style="
-         border-radius: 15px;
-         transition: transform 0.5s ease, box-shadow 0.3s ease;
-         cursor: pointer;
-         border: 3px solid #6e5494;
-       "
-       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 25px rgba(110,84,148,0.4)';"
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"
-  />
-</p>
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=6E5494&center=true&vCenter=true&width=500&lines=Ndeye+Astou+K%C3%A9b%C3%A9;D%C3%A9veloppeuse+Web+Full-Stack+%26+Data+Analyst" 
-         alt="Typing SVG" />
-  </a>
-</h1>
-
+<p align="center"> <img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" alt="Ndeye Astou Kébé" width="50%" style=" border-radius: 15px; transition: transform 0.5s ease, box-shadow 0.3s ease; cursor: pointer; border: 3px solid #6e5494; " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 25px rgba(110,84,148,0.4)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" /> </p> <h1 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=6E5494&center=true&vCenter=true&width=500&lines=Ndeye+Astou+K%C3%A9b%C3%A9;D%C3%A9veloppeuse+Web+%26+Mobile" alt="Typing SVG" /> </a> </h1>
 <h3 align="center">
 Développeuse Web Full-Stack | Étudiante en Analyse de Données (L3 IISAN) | Création de solutions web & data | Dakar, Sénégal
 </h3>
