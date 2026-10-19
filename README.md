@@ -1,152 +1,136 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
-       alt="Ndeye Astou Kébé"
-       width="55%"
-       style="border-radius: 18px; border: 3px solid #6e5494;">
-</p>
+<!--
+  Profil GitHub : Ndeye Astou Kébé
+  Positionnement : Développement Web Junior | Data & IA | Digitalisation & Communication Digitale
+--><p align="center">
+  <img
+    src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
+    alt="Environnement de développement numérique"
+    width="70%"
+  />
+</p><h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=900&color=6E5494&center=true&vCenter=true&width=950&lines=Ndeye+Astou+K%C3%A9b%C3%A9;D%C3%A9veloppeuse+Web+Junior;Data+%26+IA+%7C+Digitalisation;Communication+Digitale" alt="Ndeye Astou Kébé — Développeuse Web Junior" />
+</h1><h3 align="center">
+  💻 Développement Web · 📊 Data & IA · 📱 Communication Digitale
+</h3><p align="center">
+  📍 Dakar, Sénégal
+</p><p align="center">
+  <a href="mailto:ndeyeastoukebe01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ndeye-astou-k%C3%A9b%C3%A9-75987b374/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mon_profil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Ndeye-Astou">
+    <img src="https://img.shields.io/badge/GitHub-Mes_projets-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://ndeye-astou-kebe.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-D%C3%A9couvrir-6E5494?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>---
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=900&color=6E5494&center=true&vCenter=true&width=950&lines=Ndeye+Astou+K%C3%A9b%C3%A9;D%C3%A9veloppeuse+Web+Full-Stack+%26+Data+Analyst;Je+cr%C3%A9e+des+solutions+web+et+data+impactantes" />
-</h1>
+👩🏽‍💻 À propos de moi
 
-<h3 align="center">
-🚀 Développeuse Web Full-Stack · 📊 Data Analyst · 🌍 Dakar, Sénégal
-</h3>
+Je suis Ndeye Astou Kébé, développeuse web junior, intéressée par la création de sites web, les solutions numériques et la transformation digitale.
 
----
+J'associe le développement web à la communication digitale, avec un intérêt particulier pour la Data, le Big Data et l'intelligence artificielle.
 
-<div align="center">
+J'aime concevoir des interfaces utiles, améliorer l'expérience utilisateur et contribuer à des projets qui répondent à des besoins concrets.
 
-<a href="mailto:ndeyeastoukebe21@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/ndeye-astou-kébé-75987b374">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/Ndeye-Astou">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://portfolio-ndeye-astou.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-6e5494?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
-
-</div>
-
----
-
-# À PROPOS DE MOI
-
-Je suis une développeuse web Full-Stack et analyste de données passionnée par la création de solutions numériques utiles, modernes et orientées impact.
-
-Je ne me limite pas à écrire du code :
-je construis des produits digitaux complets qui résolvent de vrais problèmes.
+Mon objectif : continuer à progresser techniquement, participer à des projets réels et développer des solutions numériques adaptées aux utilisateurs et aux organisations.
 
 ---
 
-# 🎯 CE QUE JE CONSTRUIS
+🚀 Mes domaines d'intérêt
 
-Je développe :
-
-- Applications web modernes et interactives  
-- Plateformes e-commerce complètes  
-- Systèmes de gestion (réservation, administration, automatisation)  
-- Dashboards d’analyse de données pour la prise de décision  
-- Sites web professionnels pour entreprises et projets  
-
----
-
-# 💡 MA PHILOSOPHIE
-
-✔ Simplicité avant complexité  
-✔ Impact réel avant esthétique seule  
-✔ Fonctionnalité avant théorie  
-✔ Expérience utilisateur avant tout  
-
-> La technologie doit résoudre des problèmes concrets, pas être juste démontrée.
+- 🌐 Développement web : création et amélioration de sites web et d'interfaces interactives.
+- 🖥️ Digitalisation : contribution à la conception de solutions numériques adaptées aux besoins des organisations.
+- 📊 Data & Big Data : analyse, exploitation et visualisation des données.
+- 🤖 Intelligence artificielle : découverte et exploration des applications de l'IA.
+- 📱 Communication digitale : création de contenus, conception de visuels et gestion des réseaux sociaux.
+- 🎨 Expérience utilisateur : recherche de solutions claires, accessibles et cohérentes.
 
 ---
 
-# 🚀 DOMAINES D’EXPERTISE
+💻 Compétences techniques
 
-- Développement Web Full-Stack  
-- Applications métiers et plateformes digitales  
-- Analyse et visualisation de données  
-- Création de dashboards interactifs  
-- Gestion de bases de données  
+Développement web
 
----
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+</p>Data & visualisation
 
-# 💻 COMPÉTENCES TECHNIQUES
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>Outils et création digitale
 
-## Frontend
-HTML5 · CSS3 · JavaScript · Bootstrap  
-
-## Backend
-PHP · Python · Flask  
-
-## Data Analytics
-Power BI · Excel · Pandas · NumPy · SQL · Data Visualization  
-
-## Outils
-Git · GitHub · MySQL · WordPress · Canva  
-
----
-
-# 🔥 PROJETS PHARES (IMPACT RÉEL)
-
-| Projet | Impact | Technologies |
-|--------|--------|--------------|
-| Portfolio Professionnel | Branding et identité digitale | HTML, CSS, JS |
-| Plateforme d’apprentissage web | Formation interactive | JavaScript, Bootstrap |
-| E-commerce Électro | Vente en ligne complète | PHP, MySQL |
-| Système de gestion hôtelière | Digitalisation des réservations | Python, Flask |
-| Site WordPress E-commerce | Boutique professionnelle | WooCommerce |
-| Dashboard Data Analytics | Analyse et décision business | Power BI, Excel, SQL | Big Data
-
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+</p>Mes compétences évoluent au fil de mes projets et de ma pratique.
 
 ---
 
-# 🔥 ACTIVITÉ GITHUB
+📂 Projets et réalisations
+
+Retrouve ici quelques projets de mon parcours en développement web et en conception de solutions numériques.
+
+Projet| Description| Technologies
+Portfolio professionnel| Présentation de mon parcours, de mes compétences et de mes réalisations| HTML, CSS, JavaScript
+DevAcademy-sn| Projet autour de l'apprentissage du développement web| À préciser selon le dépôt
+RESOCIITÉ| Projet numérique disponible dans mes dépôts| À préciser selon le dépôt
+Autres réalisations| Sites web et projets d'apprentissage| Selon les projets
+
+🔗 "Explorer tous mes dépôts GitHub" (https://github.com/Ndeye-Astou?tab=repositories)
+
+🌐 "Consulter mon portfolio" (https://ndeye-astou-kebe.netlify.app/)
+
+---
+
+📈 Activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ndeye-Astou&theme=tokyo-night" />
-</p>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ndeye-Astou&theme=tokyo-night&hide_border=true"
+    alt="Graphique de mon activité GitHub"
+    width="100%"
+  />
+</p>---
 
+🎯 Mon objectif professionnel
 
----
+Je souhaite contribuer à des projets qui me permettent de :
 
-# 🎯 MINDSET
+- Développer des sites web et des interfaces de qualité.
+- Participer à la digitalisation des activités des organisations.
+- Approfondir mes connaissances en Data, Big Data et intelligence artificielle.
+- Collaborer avec des équipes techniques et apprendre de professionnels expérimentés.
+- Concevoir des solutions numériques utiles et adaptées aux besoins du terrain.
 
-✔ Je construis des solutions, pas juste du code  
-✔ Je transforme les idées en produits concrets  
-✔ Je crée de la valeur via la technologie  
-✔ Je vise l’impact réel  
-
----
-
-# 📌 OBJECTIF PROFESSIONNEL
-
-Intégrer des projets où je peux :
-
-- Développer des applications complètes  
-- Analyser des données pour aider à la décision  
-- Construire des solutions digitales utiles  
-- Évoluer dans un environnement technique exigeant  
+Je suis particulièrement intéressée par les opportunités de stage pratique et de collaboration en développement web, digitalisation et communication digitale.
 
 ---
 
-# CONTACT
+🤝 Échangeons
 
-📧 Email : ndeyeastoukebe21@gmail.com  
-💼 LinkedIn : linkedin.com/in/ndeye-astou-kébé-75987b374  
-💻 GitHub : github.com/Ndeye-Astou  
-🌐 Portfolio : portfolio-ndeye-astou.netlify.app  
+Tu as un projet numérique, une opportunité de collaboration ou une proposition de stage ?
 
----
+N'hésite pas à me contacter.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e5494,100:0f172a&height=120&section=footer"/>
+  <a href="mailto:ndeyeastoukebe01@gmail.com">📧 Email</a> ·
+  <a href="https://www.linkedin.com/in/ndeye-astou-k%C3%A9b%C3%A9-75987b374/">💼 LinkedIn</a> ·
+  <a href="https://ndeye-astou-kebe.netlify.app/">🌐 Portfolio</a> ·
+  <a href="https://github.com/Ndeye-Astou">💻 GitHub</a>
+</p>---
+
+<p align="center">
+  <i>Apprendre, concevoir et faire évoluer des solutions numériques utiles.</i>
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e5494,100:0f172a&height=120&section=footer" alt="Bannière de fin violette" />
 </p>
