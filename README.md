@@ -10,9 +10,9 @@
 </p><h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=900&color=6E5494&center=true&vCenter=true&width=950&lines=Ndeye+Astou+K%C3%A9b%C3%A9;D%C3%A9veloppeuse+Web+Junior;Data+%26+IA+%7C+Digitalisation;Communication+Digitale" alt="Ndeye Astou Kébé — Développeuse Web Junior" />
 </h1><h3 align="center">
-  💻 Développement Web · 📊 Data & IA · 📱 Communication Digitale
+  Développement Web · Data & IA · Communication Digitale
 </h3><p align="center">
-  📍 Dakar, Sénégal
+  Dakar, Sénégal
 </p><p align="center">
   <a href="mailto:ndeyeastoukebe01@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -28,9 +28,9 @@
   </a>
 </p>---
 
-👩🏽‍💻 À propos de moi
+À propos de moi
 
-Je suis Ndeye Astou Kébé, développeuse web junior, intéressée par la création de sites web, les solutions numériques et la transformation digitale.
+Je suis Ndeye Astou Kébé, développeuse web, intéressée par la création de sites web, les solutions numériques et la transformation digitale.
 
 J'associe le développement web à la communication digitale, avec un intérêt particulier pour la Data, le Big Data et l'intelligence artificielle.
 
@@ -40,18 +40,18 @@ Mon objectif : continuer à progresser techniquement, participer à des projets 
 
 ---
 
-🚀 Mes domaines d'intérêt
+Mes domaines d'intérêt
 
-- 🌐 Développement web : création et amélioration de sites web et d'interfaces interactives.
-- 🖥️ Digitalisation : contribution à la conception de solutions numériques adaptées aux besoins des organisations.
-- 📊 Data & Big Data : analyse, exploitation et visualisation des données.
-- 🤖 Intelligence artificielle : découverte et exploration des applications de l'IA.
-- 📱 Communication digitale : création de contenus, conception de visuels et gestion des réseaux sociaux.
-- 🎨 Expérience utilisateur : recherche de solutions claires, accessibles et cohérentes.
+- Développement web : création et amélioration de sites web et d'interfaces interactives.
+- Digitalisation : contribution à la conception de solutions numériques adaptées aux besoins des organisations.
+-  Data & Big Data : analyse, exploitation et visualisation des données.
+-  Intelligence artificielle : découverte et exploration des applications de l'IA.
+-  Communication digitale : création de contenus, conception de visuels et gestion des réseaux sociaux.
+- Expérience utilisateur : recherche de solutions claires, accessibles et cohérentes.
 
 ---
 
-💻 Compétences techniques
+ Compétences techniques
 
 Développement web
 
